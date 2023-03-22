@@ -1,4 +1,4 @@
-# labos-assignment
+# LabOS Assignment
 
 ## Requirements 
 1. Write a python program that will listen on port 8080 and accept incoming API requests:<br><br>
